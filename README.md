@@ -1,10 +1,14 @@
-Portfólio Pessoal - Matheus Grandé Gonçalves
+Portfólio Pessoal - Matheus Grandé Gonçalves: 
+
 Este é um projeto de portfólio pessoal, desenvolvido durante o curso de HTML e CSS da Alura, com o objetivo de praticar e demonstrar conhecimentos em desenvolvimento Front-End, abordando conceitos de estruturação de páginas web, estilização e responsividade.
+
 🛠️ Tecnologias Utilizadas
 HTML5: Para a estruturação semântica do conteúdo.
 CSS3: Para estilização e design responsivo do site.
 Google Fonts: Integração de fontes personalizadas (Krona One e Montserrat).
-📄 Descrição
+
+📄 Descrição:
+
 O portfólio possui as seguintes seções:
 
 Home: Introdução e apresentação geral, com links para minhas redes sociais (Instagram, LinkedIn e GitHub).
